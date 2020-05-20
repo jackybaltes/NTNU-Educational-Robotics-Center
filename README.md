@@ -1,1 +1,1 @@
-Update readme file here.
+[https://jackybaltes.github.io/NTNU-Educational-Robotics-Center/](https://jackybaltes.github.io/NTNU-Educational-Robotics-Center/)
